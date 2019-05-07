@@ -1,1 +1,1 @@
-# Ethereum-Blockchain-Voting-DApp
+# Ethereum-Blockchain-Voting DAPP
